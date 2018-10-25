@@ -23,6 +23,7 @@ VRChat Chairs with proper height fixes for small and tall avatars thar also allo
 # Extra Goodies
 1. There are extra animations for emotes located in the animation folder for those not happy with the one's already applied
 2. A list of 66 'Interaction Text' Suggestions to use for your seat to mix it up a little
+3. Seats have height adjustment that will raise the seat and add a book under your butt.
 
 
 # Credits
