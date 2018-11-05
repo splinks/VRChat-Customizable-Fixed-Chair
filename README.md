@@ -33,5 +33,5 @@ Splinks 	- For doing all the things
 # Rules
 If you find this prefab helpful in anyway all I ask is just a simple credit somewhere or a "thanks buddy" message to Splinks#0325 over at Discord. 
 
-Or if for some reason you feel like keeping me off ramen and putting me back onto a burger diet I have a paypal.
+Or if for some reason you feel like helping me become a VR user and not a desktop user I have a paypal. 
 paypal.me/splinks
