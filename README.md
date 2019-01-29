@@ -1,5 +1,5 @@
 # VRChat-Customizable-Fixed-Chair
-VRChat Chairs with proper height fixes for small and tall avatars thar also allows you to customize the sitting pose, emotes, and right/left hand gestures thought an override controller.
+VRChat Chairs with proper height fixes for small and tall avatars that also allows you to customize the sitting pose, emotes, and right/left hand gestures thought an override controller.
 
 
 # Things to have imported before using
