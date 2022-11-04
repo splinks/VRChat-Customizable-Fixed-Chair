@@ -1,3 +1,6 @@
+THIS IS MEANT FOR SDK 2.0 
+
+
 # VRChat-Customizable-Fixed-Chair
 VRChat Chairs with proper height fixes for small and tall avatars that also allows you to customize the sitting pose, emotes, and right/left hand gestures thought an override controller.
 
@@ -32,6 +35,3 @@ Splinks 	- For doing all the things
 
 # Rules
 If you find this prefab helpful in anyway all I ask is just a simple credit somewhere or a "thanks buddy" message to Splinks#0325 over at Discord. 
-
-Or if for some reason you feel like buying me a coffee I have a paypal. 
-paypal.me/splinks
